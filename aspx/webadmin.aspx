@@ -8,7 +8,7 @@
 
     '---------Setting Start---------
     'Here, modify the default password to yours, MD5 Hash
-    Const PASSWORD as string = "1c1f81a8b0a630f530f52fa9aa9dda1b"//F4ck
+    Const PASSWORD as string = "1c1f81a8b0a630f530f52fa9aa9dda1b" //F4ck
     'Session name, avoid session crash
     Const SESSIONNAME as string = "webadmin2"
     '---------Setting End---------
